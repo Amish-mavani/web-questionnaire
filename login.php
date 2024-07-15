@@ -30,7 +30,7 @@
 
             $servername = "localhost";
             $username = "root";
-            $password = "Amish@4929";
+            $password = "";
             $database = "login";
             
             $conn = new mysqli($servername, $username, $password, $database);
